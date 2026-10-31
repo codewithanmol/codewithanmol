@@ -45,7 +45,7 @@ automation engineering and AI agent development.
 | --- | --- |
 | **ANcore Browser** | AI-powered desktop browser built with Python, PyQt5 and Qt WebEngine |
 | **AncoreSearch** | Search-focused project |
-| **AK Voice Assistant** | Local-first, voice-controlled AI assistant for Windows with an Android companion app |
+| **[AK Voice Assistant](https://github.com/codewithanmol/AK-Voice-Assistant)** | Local-first, voice-controlled AI assistant for Windows with an Android companion app |
 | **DIY 3DOF PC-VR** | Low-cost PC VR headset — ESP32 + MPU6050 + HDMI LCD + Fresnel lenses, voice controlled |
 | **StegVault** | Steganography and data-hiding toolkit |
 | **Dairy Ledger Pro** | Ledger and records management app |
