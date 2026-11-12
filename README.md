@@ -9,7 +9,7 @@
 [![Website](https://img.shields.io/badge/Website-codewithanmol.github.io-7a1f30?style=flat&logo=githubpages&logoColor=white)](https://codewithanmol.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-codewithanmol-181717?style=flat&logo=github&logoColor=white)](https://github.com/codewithanmol)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anmol%20Tyagi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-tyagi-b38446213)
-[![Instagram](https://img.shields.io/badge/Instagram-anmol__tyagi-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/anmol__tyagi__________)
+[![Instagram](https://img.shields.io/badge/Instagram-kaun___anmol-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kaun___anmol)
 [![Email](https://img.shields.io/badge/Email-at986848%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:at986848@gmail.com)
 
 </div>
