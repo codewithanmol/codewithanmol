@@ -6,7 +6,7 @@
 
 *"Decoding organizational structure and logic through a technical lens."*
 
-[![Website](https://img.shields.io/badge/Website-codewithanmol.github.io-7a1f30?style=flat&logo=githubpages&logoColor=white)]([https://codewithanmol.github.io](https://codewithanmol-github-io.at986848.workers.dev/v2/))
+[![Website](https://img.shields.io/badge/Website-codewithanmol.github.io-7a1f30?style=flat&logo=githubpages&logoColor=white)]([https://codewithanmol.github.io](https://codewithanmol-github-io.at986848.workers.dev/v2/)
 [![GitHub](https://img.shields.io/badge/GitHub-codewithanmol-181717?style=flat&logo=github&logoColor=white)](https://github.com/codewithanmol)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anmol%20Tyagi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-tyagi-b38446213)
 [![Instagram](https://img.shields.io/badge/Instagram-kaun___anmol-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kaun___anmol)
